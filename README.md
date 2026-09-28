@@ -24,7 +24,7 @@ Also: Helm, ArgoCD, Crossplane, Karpenter, Istio, Jenkins, Concourse, Splunk, Da
 | Project | What it shows |
 |---|---|
 | [terraform-aws-mcp-server-ec2](https://github.com/metalaranna/terraform-aws-mcp-server-ec2) | Terraform that deploys a remote MCP server on EC2: SSM instead of SSH, IMDSv2, encrypted disk, locked-down security group, CI validation |
-
+| [terraform-aws-vpc](https://github.com/metalaranna/terraform-aws-vpc) | Production-shaped AWS VPC with public and private subnets across multiple Availability Zones, NAT Gateway-based private subnet egress, route tables, and VPC Flow Logs to CloudWatch |
 <!--
 Add these rows as you publish each repo:
 | [eks-gitops-platform](https://github.com/metalaranna/eks-gitops-platform) | EKS with ArgoCD app-of-apps, Helm, and Karpenter |
